@@ -1,0 +1,22 @@
+INFO [2019-11-28 12:11:12] [[1]]
+INFO [2019-11-28 12:11:12] list(OMN = OMN_list, spinalcord_118 = spinalcord_118_list, MN = MN_list, 
+INFO [2019-11-28 12:11:12]     spinalcord_D126_304 = spinalcord_D126_304_list)
+INFO [2019-11-28 12:11:12] 
+INFO [2019-11-28 12:11:12] $resolution
+INFO [2019-11-28 12:11:12] [1] 500
+INFO [2019-11-28 12:11:12] 
+INFO [2019-11-28 12:11:12] $imagetype
+INFO [2019-11-28 12:11:12] [1] "tiff"
+INFO [2019-11-28 12:11:12] 
+INFO [2019-11-28 12:11:12] $alpha
+INFO [2019-11-28 12:11:12] c(0.5, 0.5, 0.5, 0.5)
+INFO [2019-11-28 12:11:12] 
+INFO [2019-11-28 12:11:12] $fill
+INFO [2019-11-28 12:11:12] c("red", "yellow", "blue", "green")
+INFO [2019-11-28 12:11:12] 
+INFO [2019-11-28 12:11:12] $main
+INFO [2019-11-28 12:11:12] [1] "Mus difer tissue DEG"
+INFO [2019-11-28 12:11:12] 
+INFO [2019-11-28 12:11:12] $filename
+INFO [2019-11-28 12:11:12] [1] "VennDiagram2.tif"
+INFO [2019-11-28 12:11:12] 
